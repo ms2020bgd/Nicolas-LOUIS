@@ -143,8 +143,11 @@ def extract_data(data):
     for city_name, city_weather_data in data.items():
         country = city_weather_data['metadata']['country']
         for releve in city_weather_data['weather_list']:
-            result.append()
-    return
+            result.append({'name' : city_name,
+                    'country' : country,
+                    'date' : releve['dt_txt'],
+                    'temp' : releve['main']['temp']-273.15)})
+    return result
 
 
 # End of exercices.
