@@ -1,0 +1,201 @@
+,username,ip_address,product,egg,fish,gluten,milk,mustard,peanut,soja,sugar,currency,price in $
+0,ldrover0,666.666.666.666,Clam - Cherrystone,0,0,0,0,0,0,0,1,,712.8
+1,kizakov1,nope,Soup - Campbells Bean Medley,0,1,0,0,0,1,0,0,,379.26
+2,abromet2,240.177.79.234,Island Oasis - Lemonade,0,1,0,0,1,0,0,0,,305.96
+3,kkarolowski3,26.191.237.49,"Water - Mineral, Natural",0,0,1,0,0,0,0,0,USD,350.15
+4,mbuckney4,58.90.204.239,Radish - Pickled,1,1,0,0,0,0,0,1,JPY,8.75
+5,bsnozzwell5,226.52.32.70,Oil - Sesame,0,0,0,1,0,0,0,1,,354.33
+6,afairholme6,127.197.204.119,Chicken - Tenderloin,0,0,0,0,0,0,0,1,,484.83
+7,avowdon7,189.169.17.54,Dc Hikiage Hira Huba,0,0,0,0,0,0,0,1,MXN,5.82
+8,epridham8,187.129.113.105,Dried Figs,0,1,0,1,0,0,0,1,MXN,4.59
+9,tkendrew9,22.32.234.215,Pop - Club Soda Can,0,1,0,1,0,1,0,1,USD,861.25
+10,cjagielaa,75.254.207.163,Cinnamon Rolls,1,1,0,0,0,1,0,1,USD,966.34
+11,jdolbeyb,17.105.113.72,Wine - Ice Wine,0,0,0,1,1,0,0,1,USD,679.57
+12,chaylandsc,208.239.186.79,Chicken Thigh - Bone Out,0,0,1,0,0,0,0,1,USD,725.88
+13,mvidelerd,116.18.56.20,Trout Rainbow Whole,0,0,0,0,0,1,0,0,CNY,25.22
+14,jmulvine,87.198.88.207,Bread Crumbs - Panko,0,0,1,1,0,0,1,1,EUR,168.07
+15,kcaldeyrouxf,138.44.156.99,Vector Energy Bar,0,0,1,1,0,0,1,1,AUD,49.6
+16,ctaftg,18.61.195.234,Versatainer Nc - 888,0,0,0,0,0,0,1,1,USD,373.96
+17,ksumptonh,150.214.20.140,Bagel - Ched Chs Presliced,1,0,0,0,0,1,0,1,EUR,1066.71
+18,aloweri,157.197.190.113,Dry Ice,0,0,0,1,0,0,0,1,KRW,0.82
+19,sgarmeyj,219.75.213.15,Nantucket - Kiwi Berry Cktl.,1,1,1,0,0,0,1,1,JPY,7.12
+20,mjahndelk,225.250.18.162,Gherkin,0,0,0,0,0,0,1,0,,550.63
+21,chayhurstl,157.145.5.133,Muffin - Bran Ind Wrpd,0,0,0,0,0,0,1,1,USD,705.45
+22,rpayntonm,105.123.55.143,"Tart Shells - Savory, 3",0,0,0,0,0,1,1,1,NGN,135.84
+23,ahammelbergn,222.143.75.39,Wine - Manischewitz Concord,0,0,0,0,0,0,0,1,CNY,93.05
+24,dpico,17.226.242.68,Bread - Pain Au Liat X12,0,1,0,1,0,0,0,1,USD,917.69
+25,bberntp,201.51.7.205,Extract - Almond,0,0,0,1,0,0,0,1,BRL,85.58
+26,vdeniskevichq,177.248.202.127,Soup Campbells Turkey Veg.,1,1,0,0,0,0,0,0,MXN,49.67
+27,apesr,24.1.79.147,Numi - Assorted Teas,0,0,0,0,1,0,0,1,USD,770.98
+28,mheynels,123.157.88.33,Cranberries - Dry,0,0,1,0,0,0,1,1,CNY,74.01
+29,rmackessockt,254.37.135.127,"Bread - Roll, Canadian Dinner",0,0,0,1,0,0,0,1,,597.95
+30,grommeu,254.21.208.244,Mousse - Mango,1,1,0,0,0,0,0,1,,709.39
+31,dbocockv,134.167.195.239,Bacardi Mojito,0,1,0,1,1,0,0,0,USD,269.56
+32,mcamousw,140.223.76.83,Beer - Corona,0,1,0,1,1,0,0,1,USD,254.98
+33,imildnerx,67.232.83.24,"Pasta - Shells, Medium, Dry",0,0,1,1,0,0,0,1,USD,328.83
+34,cmilellay,124.100.237.236,Pears - Fiorelle,0,0,0,1,0,0,1,0,JPY,5.73
+35,jburdinz,12.218.65.100,Cheese - Cheddarsliced,0,0,1,0,0,0,0,0,USD,336.88
+36,mbelding10,22.73.245.49,Cheese - Ricotta,0,0,1,0,0,0,0,1,USD,756.85
+37,shiers11,191.45.106.36,Juice - Lemon,0,1,0,1,0,1,0,0,BRL,164.51
+38,sbaudassi12,47.153.1,Longos - Grilled Veg Sandwiches,0,1,0,0,0,0,0,1,,524.5
+39,gtingle13,32.112.67.248,Soup - French Can Pea,1,1,0,0,0,0,1,1,GBP,985.27
+40,lbadsey14,188.98.203.195,Truffle Paste,0,1,0,0,0,0,0,1,EUR,393.72
+41,gallsepp15,167.174.244.176,Beef Wellington,1,0,0,0,0,0,1,1,USD,512.06
+42,kbeecheno16,21.124.12.215,Pickle - Dill,1,0,0,0,1,0,0,1,USD,763.44
+43,rsedgeman17,190.233.51.35,"Juice - Clam, 46 Oz",0,0,0,0,0,0,0,1,PEN,153.0
+44,fkillimister18,143.75.128.57,Scallops - Live In Shell,0,0,0,1,0,0,1,1,USD,743.2
+45,tsaile19,41.63.88.3,Ham - Virginia,1,0,0,0,0,0,0,1,ZAR,53.43
+46,estolz1a,32.77.50.179,Curry Paste - Green Masala,0,1,0,0,0,0,1,1,USD,662.6
+47,breven1b,201.14.107.40,Water - San Pellegrino,0,0,0,1,0,1,1,1,BRL,12.95
+48,tnusche1c,109.144.241.78,Tomatoes - Grape,0,1,0,0,0,1,0,1,GBP,1098.7
+49,ychuter1d,136.251.73.188,"Coconut - Shredded, Unsweet",0,0,0,1,1,1,0,1,USD,985.06
+50,dlambdean1e,246.216.13.211,Aspic - Light,1,0,0,0,0,0,0,0,,110.24
+51,dempson1f,220.115.202.199,"Rum - Spiced, Captain Morgan",0,0,1,1,0,0,0,1,CNY,48.41
+52,gborham1g,180.2.219,Squash - Guords,1,1,0,0,0,0,0,1,,92.26
+53,fsouthey1h,69.135.112.215,Sansho Powder,1,1,0,0,0,1,1,0,USD,207.7
+54,hturbern1i,223.25.136.102,Ham - Virginia,0,0,1,0,0,0,0,1,JPY,0.72
+55,jmalia1j,6.120.0.29,"Veal - Inside Round / Top, Lean",0,0,0,0,0,0,1,0,USD,515.54
+56,rpittendreigh1k,178.154.116.57,Crab - Meat Combo,0,1,0,0,0,1,0,1,BYR,330.19
+57,arichings1l,207.0.191.149,Beef - Sushi Flat Iron Steak,0,0,0,0,1,0,0,0,USD,86.64
+58,vhadingham1m,109.242.195.131,Sloe Gin - Mcguinness,0,1,0,0,0,0,0,1,EUR,186.68
+59,cwrenn1n,38.125.216.233,Cheese - Perron Cheddar,0,0,1,1,0,0,1,0,USD,925.05
+60,hdulieu1o,35.105.188.50,Kellogs Raisan Bran Bars,1,1,0,0,1,0,0,0,USD,537.55
+61,iprendiville1p,104.27.157.229,Grouper - Fresh,0,0,0,0,0,1,0,0,USD,689.88
+62,emessum1q,133.56.53.78,Milk - Chocolate 250 Ml,0,0,1,0,1,0,0,1,JPY,0.67
+63,hbraunes1r,46.14.231.6,Seedlings - Clamshell,0,0,1,0,0,0,1,1,CHF,263.74
+64,hreidshaw1s,104.137.59.250,"Rice Pilaf, Dry,package",1,0,0,0,0,0,1,1,USD,992.68
+65,dtremouille1t,176.211.210.96,Bacardi Limon,0,1,1,0,0,0,0,0,RUB,11.67
+66,rbeake1u,244.35.187.136,"Pasta - Orzo, Dry",1,0,0,0,0,0,0,1,,677.81
+67,gbayles1v,40.155.15.190,Wine - Two Oceans Cabernet,0,1,1,1,0,0,0,1,USD,130.84
+68,lbloxsom1w,336.192.150.109,Cinnamon - Ground,0,1,0,0,0,0,1,1,,602.35
+69,psemechik1x,38.360.77.106,Curry Paste - Madras,0,1,0,1,1,0,0,1,,976.51
+70,easgodby1y,43.219.225.156,"Cake Circle, Foil, Scallop",0,0,0,0,0,0,0,1,JPY,5.68
+71,sjanusz1z,127.128.57.9,Pastry - Raisin Muffin - Mini,0,1,1,0,0,0,1,1,,770.99
+72,mbillborough20,127.8.161.201,Port - 74 Brights,0,0,1,0,0,0,0,1,,493.64
+73,ptzuker21,86.115.203.240,"Jam - Strawberry, 20 Ml Jar",1,1,0,0,0,0,0,1,EUR,922.36
+74,kchasmoor22,142.7.77.36,Puff Pastry - Slab,1,0,0,0,0,0,1,0,CAD,230.12
+75,apopland23,155.168.213.24,Lamb - Ground,1,0,0,0,0,0,0,0,USD,379.99
+76,bhansbury24,18.168.190.176,"Lemonade - Kiwi, 591 Ml",0,1,0,0,0,0,0,0,USD,179.05
+77,abrimicombe25,158.169.121.162,Crackers - Graham,1,1,0,0,0,0,0,0,EUR,252.6
+78,kcesaric26,26.171.48.220,Ecolab - Medallion,1,0,1,0,0,0,0,1,USD,269.55
+79,mlightowlers27,49.33.151.84,Banana Turning,0,1,0,1,0,0,0,1,INR,1.9
+80,hbetts28,92.153.201.202,"Nut - Pecan, Pieces",0,1,1,1,0,0,0,1,EUR,605.03
+81,cwhitaker29,98.137.66.63,V8 Splash Strawberry Kiwi,1,1,1,0,0,0,1,1,USD,426.88
+82,sminshull2a,103.46.67.17,Coffee Cup 8oz 5338cd,0,0,0,0,0,1,0,1,CNY,112.73
+83,hkinnear2b,187.45.179.240,Flower - Commercial Bronze,0,0,0,0,0,1,0,0,BRL,233.3
+84,lflaherty2c,77.158.148.198,Milk - 2%,0,1,0,1,0,0,0,1,EUR,199.25
+85,etremain2d,117.116.192.82,Bacardi Mojito,0,0,0,0,0,1,1,0,CNY,57.55
+86,vfinnis2e,182.63.139.137,"Bread - Rolls, Rye",0,1,0,0,0,1,1,0,MYR,128.96
+87,nbartozzi2f,250.55.159.47,Lemon Balm - Fresh,0,1,1,1,0,0,0,0,,217.09
+88,etoulamain2g,70.155.199.76,Lemons,1,1,0,0,0,0,1,0,USD,750.37
+89,jrehme2h,157.108.157.105,"Melon - Watermelon, Seedless",0,1,0,0,0,1,0,1,JPY,0.76
+90,lfritter2i,163.69.250.215,Wine - Ruffino Chianti,0,1,0,1,0,1,1,0,EUR,590.75
+91,dsparshett2j,236.107.54.47,"Wine - Cahors Ac 2000, Clos",1,1,1,0,1,0,0,1,,829.75
+92,tpinnigar2k,116.190.103.104,"Brandy - Orange, Mc Guiness",0,0,0,1,0,1,0,1,CNY,124.72
+93,jbeazer2l,22.136.119.134,Mustard - Pommery,1,0,0,0,1,0,0,1,USD,58.46
+94,ggingell2m,19.106.249.206,Papayas,0,1,1,0,1,0,0,1,USD,87.02
+95,adeam2n,137.202.171.150,Versatainer Nc - 888,1,0,1,0,0,0,0,1,USD,823.0
+96,pluton2o,127.148.93.213,"Pork - Bacon, Sliced",1,0,1,0,1,0,0,1,,846.88
+97,sroz2p,116.106.48.241,Soup - Verve - Chipotle Chicken,0,1,0,0,0,0,0,1,VND,0.01
+98,mmacsween2q,99.8.210.33,Cherries - Fresh,0,0,0,1,1,1,0,1,USD,488.34
+99,gwreight2r,118.73.14.248,Lady Fingers,0,1,0,0,0,0,1,0,CNY,94.18
+100,byellop2s,249.67.24.2,Herb Du Provence - Primerba,1,0,0,0,0,0,0,1,,708.98
+101,bsibbering2t,152.346.35.103,Oil - Hazelnut,1,1,0,0,0,0,0,1,,681.22
+102,vkneal2u,57.102.222.77,Chicken - Leg / Back Attach,0,1,1,1,0,0,0,1,EUR,280.58
+103,shaysey2v,122.225.117.164,"Soup - Knorr, French Onion",0,1,1,1,0,0,0,1,CNY,120.64
+104,bmclevie2w,136.232.122.2,"Lentils - Red, Dry",0,0,0,0,1,0,0,1,INR,1.4
+105,hgives2x,253.176.78.127,Cardamon Seed / Pod,0,0,0,0,1,0,0,1,,64.32
+106,nlampkin2y,49.215.30.109,Tomato - Plum With Basil,1,0,0,0,1,1,0,1,TWD,32.38
+107,ctowndrow2z,87.59.190.114,Bread - Pita,1,0,0,0,0,0,1,1,DKK,114.39
+108,fjennemann30,223.203.79.58,Wine - Red Oakridge Merlot,0,1,1,0,0,0,0,1,CNY,52.55
+109,amcluckie31,9.31.113.10,Sauce - Plum,0,0,0,0,0,0,0,1,USD,314.33
+110,blorent32,243.233.167.154,Easy Off Oven Cleaner,0,0,0,1,0,0,1,0,,340.48
+111,ccota33,188.89.170.252,Soup - Campbells Mac N Cheese,0,1,0,0,0,0,0,0,EUR,708.23
+112,kdimanche34,18.112.24.144,Mushroom - Lg - Cello,0,0,0,1,0,1,0,1,USD,494.44
+113,ddrakeley35,109.90.30.99,Clam Nectar,0,0,0,0,0,1,1,1,EUR,736.79
+114,aatack36,158.197.55.255,Tamarind Paste,0,1,1,0,0,0,0,1,EUR,1054.21
+115,bdelacote37,15.43.177.3,Sugar - White Packet,1,0,1,0,0,0,0,0,USD,92.2
+116,bdinjes38,202.58.212.28,Lid Tray - 16in Dome,0,0,0,0,0,1,0,1,IDR,0.02
+117,zpawelski39,95.30.190.244,Beef - Salted,0,1,0,0,1,1,0,1,RUB,14.99
+118,zembleton3a,134.10.200.254,Wine - Pinot Noir Latour,0,0,0,1,0,0,1,1,USD,944.51
+119,mwalaron3b,160.32.117.250,Flour - Cake,0,0,0,0,1,0,0,1,USD,572.22
+120,cgorusso3c,16.157.249.370,"Pasta - Shells, Medium, Dry",0,0,1,0,0,0,0,1,,940.51
+121,kjanu3d,64.255.164.81,Langers - Cranberry Cocktail,0,1,0,1,1,1,0,1,USD,292.42
+122,wizacenko3e,133.113.234.50,Shopper Bag - S - 4,0,0,0,1,1,1,0,0,JPY,7.64
+123,pmcdermid3f,30.149.187.196,Tomatoes - Orange,0,0,0,0,0,1,0,1,USD,484.76
+124,agiannazzo3g,62.195.228.210,Tilapia - Fillets,0,1,0,0,1,0,0,1,EUR,181.63
+125,babramow3h,80.78.230.239,Lobster - Base,0,1,0,0,0,0,1,1,BGN,76.31
+126,hmaggillandreis3i,155.129.104.232,Smoked Paprika,0,0,0,0,0,0,1,0,USD,811.36
+127,gthompsett3j,189.42.57.44,Flour - Teff,0,1,0,0,0,0,0,1,BRL,80.42
+128,bbenzie3k,125.123.26.205,Beer - Blue,0,0,0,0,0,0,0,1,CNY,13.91
+129,dedgin3l,146.170.32.157,"Ham - Smoked, Bone - In",0,1,1,0,0,0,1,1,USD,109.46
+130,sclaque3m,119.240.194.250,Duck - Legs,0,0,0,1,0,0,1,0,JPY,5.46
+131,hfenich3n,250.77.192.202,"Pepper - Green, Chili",0,1,0,0,0,1,0,1,,204.86
+132,tstriker3o,43.192.210.210,Squash - Guords,0,0,0,0,1,1,0,1,JPY,3.48
+133,medensor3p,49.39.42.217,Pastry - French Mini Assorted,0,1,0,0,0,0,0,1,INR,12.68
+134,clawles3q,247.213.246.26,Water - Aquafina Vitamin,1,1,0,0,0,0,0,1,,418.06
+135,chessentaler3r,243.254.233.38,"Lamb - Loin, Trimmed, Boneless",0,0,1,0,0,0,1,0,,633.38
+136,jdorran3s,76.111.27.142,"Club Soda - Schweppes, 355 Ml",0,0,1,1,0,0,1,0,USD,552.13
+137,zstendall3t,184.54.169.136,Cake - Pancake,0,1,1,0,0,0,0,0,USD,739.14
+138,swraxall3u,39.134.108.13,"Beans - Navy, Dry",1,1,0,0,0,0,0,1,CNY,103.09
+139,lvanrembrandt3v,89.198.127.212,"Nut - Pecan, Pieces",0,1,0,0,0,0,0,1,IRR,285.06
+140,hberkely3w,96.111.78.174,Beans - Yellow,0,0,0,0,1,0,0,1,USD,746.62
+141,bstollmeyer3x,100.31.73.144,Cheese - Asiago,1,0,0,0,0,1,1,1,USD,932.02
+142,eemloch3y,377.183.202.192,Garbage Bags - Clear,0,0,0,0,0,1,0,1,,576.38
+143,rskinley3z,26.109.234.104,Cookies Oatmeal Raisin,0,1,1,1,1,0,0,1,USD,694.19
+144,dchopy40,154.127.191.11,Papayas,0,0,1,0,0,0,1,1,AOA,738.26
+145,fasey41,84.156.203.12,Island Oasis - Strawberry,0,1,1,0,0,0,0,1,EUR,329.19
+146,swrightson42,147.29.39.123,"Beans - Navy, Dry",0,0,0,0,0,0,0,0,DKK,130.03
+147,wcoverley43,123.198.133.228,Chips - Assorted,1,1,0,0,1,1,0,0,JPY,6.17
+148,rdymoke44,182.221.65.205,Water - Tonic,1,0,0,0,0,0,0,1,KRW,0.65
+149,mdenge45,7.73.129.15,Kellogs Special K Cereal,0,1,1,0,1,0,0,1,USD,374.6
+150,sleadbeatter46,88.6.251.117,Calaloo,1,1,0,0,1,0,0,1,EUR,703.92
+151,frealph47,173.217.67.181,Towel - Roll White,0,0,0,1,1,0,0,1,USD,354.54
+152,bgreenslade48,99.73.216.25,Sugar - Individual Portions,0,1,1,1,0,0,1,1,USD,619.44
+153,hmarsham49,49.142.234.10,Sugar - Splenda Sweetener,0,0,0,0,0,0,0,0,KRW,0.73
+154,cjankiewicz4a,52.206.132.31,"Bread - Sticks, Thin, Plain",0,1,0,0,0,1,1,1,USD,747.51
+155,etomaselli4b,101.122.35.7,Wine - Chateauneuf Du Pape,0,1,1,0,0,0,1,0,CNY,66.82
+156,tbakes4c,6.27.54.236,Gatorade - Orange,1,0,0,0,1,0,0,1,USD,530.25
+157,bsinkins4d,0.251.101.80,Asparagus - Frozen,0,0,0,1,0,0,1,1,,822.3
+158,jwinters4e,232.11.191.153,Appetizer - Lobster Phyllo Roll,0,1,0,0,1,0,0,1,,426.77
+159,rfacey4f,50.170.82.179,Bread - Frozen Basket Variety,0,0,0,0,1,0,0,1,USD,531.8
+160,fyonge4g,20.0.92.197,Quail Eggs - Canned,0,0,1,0,0,0,0,1,USD,687.04
+161,bbeel4h,178.90.118.137,"Coffee - Beans, Whole",0,0,0,0,0,1,0,1,KZT,2.27
+162,bbonhan4i,58.245.10.129,Sage - Rubbed,0,0,0,0,0,0,1,0,CNY,37.25
+163,lmaruska4j,250.253.156.207,Crackers - Water,0,0,0,0,0,1,1,1,,752.39
+164,hberinger4k,242.11.31.81,Extract - Raspberry,0,1,1,1,0,0,0,1,,929.8
+165,tcrippill4l,67.52.189.212,Juice - Happy Planet,0,1,0,0,0,1,1,1,USD,223.26
+166,rfigin4m,11.97.224.132,"Beef - Bones, Cut - Up",0,1,0,0,0,1,0,1,USD,412.44
+167,tchetwind4n,62.35.227.154,Onions Granulated,0,1,0,0,0,0,0,0,EUR,619.62
+168,btulip4o,208.41.81.254,"Iced Tea - Lemon, 460 Ml",0,1,0,1,1,1,0,1,USD,187.68
+169,hwinscum4p,242.149.77.144,Mustard Prepared,0,0,0,0,0,0,0,1,,74.42
+170,abrocklesby4q,45.67.155.193,Sugar - Cubes,0,0,0,0,1,0,0,1,TRY,70.69
+171,rlydiate4r,209.111.52.39,Tarts Assorted,0,1,0,0,0,0,0,1,USD,55.95
+172,eclow4s,210.67.185.34,Muffin Mix - Blueberry,0,0,1,0,1,0,0,1,TWD,6.98
+173,ttatford4t,117.449.232.137,Sausage - Meat,1,1,1,0,0,0,0,1,,267.91
+174,bhackney4u,165.230.147.86,Chips - Assorted,0,0,0,0,0,1,1,1,USD,938.69
+175,lmarskell4v,204.196.159.175,Muffin - Blueberry Individual,0,0,0,1,0,0,0,1,USD,684.8
+176,dwynne4w,127.87.213.209,Lettuce Romaine Chopped,1,0,1,0,0,0,1,1,,920.64
+177,ttruce4x,33.71.224.158,Beer - Molson Excel,0,0,0,0,0,0,0,1,USD,720.6
+178,bdeferraris4y,189.34.123.120,Tomato - Plum With Basil,1,0,0,0,0,0,0,0,BRL,178.07
+179,eprynne4z,215.27.56.95,Wine - Placido Pinot Grigo,0,0,0,0,0,0,0,1,USD,255.95
+180,fborrows50,185.150.178.225,Flower - Daisies,0,0,1,0,1,0,0,0,GBP,142.28
+181,kmccook51,226.24.84.53,Beef - Top Butt Aaa,0,0,0,1,0,1,1,1,,524.13
+182,hbalmann52,203.64.75.65,Langers - Ruby Red Grapfruit,0,0,0,0,0,1,0,1,TWD,4.35
+183,arawsthorne53,8.198.127.13,Crackers - Water,1,1,1,0,0,0,1,0,USD,759.84
+184,sspeeks54,234.138.19.48,Wine - Crozes Hermitage E.,0,1,0,0,0,0,0,1,,696.31
+185,gwalling55,155.124.149.117,"Mushroom - Morels, Dry",0,1,0,0,0,1,1,0,USD,937.43
+186,sjefferys56,249.240.100.136,Pastry - Apple Muffins - Mini,0,0,0,0,1,0,0,1,,492.68
+187,mcassedy57,251.190.193.91,"Veal - Shank, Pieces",1,0,0,0,0,1,1,0,,876.31
+188,rcreigan58,102.105.44.112,"Juice - Grapefruit, 341 Ml",1,0,1,0,0,0,0,1,TND,886.74
+189,wingree59,204.16.87.37,Cut Wakame - Hanawakaba,0,0,0,0,0,0,1,1,USD,583.41
+190,gbradwell5a,89.204.46.148,Hummus - Spread,0,0,0,0,0,0,0,1,RUB,8.32
+191,ecasserley5b,82.78.162.116,Cup - 8oz Coffee Perforated,0,1,0,0,0,0,0,1,RON,167.35
+192,ioxtoby5c,224.1.159.40,Brandy Cherry - Mcguinness,0,0,0,0,0,0,0,1,,705.24
+193,tliddyard5d,93.22.46.177,Shrimp - Black Tiger 6 - 8,1,1,0,0,0,0,0,1,EUR,334.18
+194,dplayer5e,182.428.159.37,Tomato - Peeled Italian Canned,0,0,1,0,0,0,0,1,,624.9
+195,ccannop5f,174.5.73.129,Nantucket Orange Juice,0,1,1,1,1,0,0,1,CAD,543.28
+196,lprovis5g,191.69.45.257,"Jam - Strawberry, 20 Ml Jar",0,0,1,0,0,0,0,1,,107.78
+197,iollarenshaw5h,206.30.25.226,"Juice - Apple, 341 Ml",0,0,1,0,0,0,1,0,USD,447.17
+198,mjablonski5i,44.133.211.182,"Mushroom - Chantrelle, Fresh",0,0,0,0,0,0,1,1,USD,632.29
+199,aoggers5j,220.67.127.345,Sambuca - Opal Nera,1,0,1,0,0,0,0,1,,570.56
